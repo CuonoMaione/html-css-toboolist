@@ -24,3 +24,42 @@ h1{
 width: 80px;
 vertical-align:middle;
 }
+
+main{
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    margin: 40px 100px 20px 100px;
+    border: #F6F8F9 solid 3px;
+    border-radius: 2%;
+    padding: 30px 50px 20px 50px;
+    
+}
+.button{
+    background-color:#47ADF1;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: small;
+    color: #F6F8F9;
+    font-weight: bold;
+    border-radius: 7%;
+    padding: 8px;
+    border: 3px #47ADF1 solid;
+    
+}
+.button2{
+    background-color: white;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: small;
+    color: #F6F8F9;
+    font-weight: bold;
+    border-radius: 7%;
+    padding: 8px;
+    border: lightgray 3px solid;
+    color: lightgray;
+
+}
