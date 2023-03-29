@@ -63,3 +63,99 @@ main{
     color: lightgray;
 
 }
+
+.editorial{
+   background-color: #47ADF1;
+   width: 70px;
+   height: 30px;
+   text-align: center;
+   font-size: x-small;
+   color: white;
+   display: inline-block;
+   padding: 8px;
+   margin: 10px;
+   border-radius: 40%;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+.q1goals{
+    background-color: #9C72E4;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: x-small;
+    color: white;
+    display: inline-block;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 40%;
+}
+
+.recruiting{
+    background-color:#64C0A9E4;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: x-small;
+    color: white;
+    display: inline-block;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 40%;
+    
+}
+
+.mobile{
+    background-color:#F29E33;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: x-small;
+    color: white;
+    display: inline-block;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 40%;
+}
+
+.website{
+    background-color:#D863A1;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: x-small;
+    color: white;
+    display: inline-block;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 40%;
+}
+
+.sales{
+background-color:#B0C926;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: x-small;
+    color: white;
+    display: inline-block;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 40%;
+}
+
+.white{
+    background-color: white;
+   width: 70px;
+   height: 30px;
+   text-align: center;
+   font-size: x-small;
+   color: white;
+   display: inline-block;
+   padding: 8px;
+   margin: 10px;
+   border-radius: 40%;
+}
